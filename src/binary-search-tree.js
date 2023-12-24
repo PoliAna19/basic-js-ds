@@ -8,27 +8,27 @@ const { NotImplementedError } = require('../extensions/index.js');
 */
 class BinarySearchTree {
 
-  root() {
+  root() {  
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
 
-  add(/* data */) {
+  add(/*data*/) {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
 
-  has(/* data */) {
+  has(/*data*/) {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
 
-  find(/* data */) {
+  find(/*data*/) {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
 
-  remove(/* data */) {
+  remove(/*data*/) {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
@@ -41,7 +41,7 @@ class BinarySearchTree {
   max() {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
-  }
+}
 }
 
 module.exports = {
